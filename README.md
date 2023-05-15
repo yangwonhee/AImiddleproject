@@ -68,3 +68,5 @@ VERSION="20.2 (Uma)"
 library version file: env/environment.yaml
 
 # 3. Run
+
+AI_middletest.ipynb 파일 참고.
